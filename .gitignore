@@ -1,0 +1,7 @@
+work/
+*.mpf
+*.cr.mti
+*.wlf
+*.bak
+transcript
+vsim.dbg
