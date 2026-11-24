@@ -10,3 +10,9 @@ VHDL implementation and ModelSim simulation of a pipelined processor, including 
 
 ## Running in ModelSim
 Open the project directory in ModelSim and run the simulation script (`compile_and_sim.do` or `run.do`) with `testbench.vhd`.
+
+## What I Learned
+
+- How pipelining actually works past the textbook diagrams: stage registers, data flow between stages, and why hazards happen
+- Writing testbenches and driving simulations in ModelSim with .do scripts
+- Breaking a large digital design into small, testable modules
